@@ -1,0 +1,23 @@
+{
+  "name": "react-wall",
+  "version": "0.0.0",
+  "description": "React component",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indamix/react-wall.git"
+  },
+  "keywords": [
+    "react",
+    "wall"
+  ],
+  "author": "Indamix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Indamix/react-wall/issues"
+  },
+  "homepage": "https://github.com/Indamix/react-wall#readme"
+}
