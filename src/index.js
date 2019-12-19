@@ -14,7 +14,7 @@ export default ({
   const child = (child, index) =>
     <div
       style={getChildStyle(cols, index)}
-      onClick={isOverview && (() => onSelect(index))}
+      onClick={isOverview ? () => onSelect(index) : undefined}
     >
       {child}
     </div>;
